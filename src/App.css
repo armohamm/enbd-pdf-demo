@@ -1,0 +1,22 @@
+/* D3 Style */
+.line {
+  fill: none;
+  stroke: #0090da;
+  stroke-width: 1.5px;
+}
+
+.lineUsers {
+  fill: none;
+  stroke: #0090da;
+  stroke-width: 2px;
+}
+
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke-width: 0;
+}

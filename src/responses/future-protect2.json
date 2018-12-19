@@ -1,0 +1,1530 @@
+{
+    "_id": "4bb8e1db-ed64-407c-8238-bd69da7d490d",
+    "_class": "org.bson.Document",
+    "name": "Untitled Illustration 11/14/2018",
+    "status": "ILLUS_IN_PROGRESS",
+    "data": {
+        "id": "mainpolicy",
+        "attrs": {
+            "person": {
+                "name": {
+                    "firstName": "Robert",
+                    "middleName": "",
+                    "lastName": "Vadra",
+                    "suffix": "",
+                    "title": ""
+                },
+                "gender": "MALE",
+                "maritalStatus": "MARRIED",
+                "birthDate": "11/07/2018",
+                "age": 0,
+                "Residency": {
+                    "cityofbirth": "Morrisville",
+                    "countryofbirth": "",
+                    "nationality1": "USA",
+                    "nationality2": null,
+                    "nationality3": null,
+                    "residency1": "1000 Whaley",
+                    "residency2": "Morrisville",
+                    "residency3": null
+                },
+                "Occupation": {
+                    "employmentStatus": "Employee",
+                    "position/title": "",
+                    "exactDailyDuties": null
+                },
+                "income": {
+                    "incomeCurrentYear": 65656,
+                    "incomeLastYear": 65656,
+                    "incomeTheYearBefore": 56662,
+                    "incomeOtherSource": null,
+                    "incomeOtherSourceAmount": 1000
+                },
+                "addresses": {
+                    "WORK": {
+                        "line1": "",
+                        "line2": "",
+                        "line3": "",
+                        "city": "",
+                        "country": "",
+                        "postalCode": "",
+                        "state": ""
+                    },
+                    "HOME": {
+                        "line1": "",
+                        "line2": "",
+                        "line3": "",
+                        "city": "",
+                        "country": "",
+                        "postalCode": "",
+                        "state": ""
+                    }
+                },
+                "phoneNumbers": {
+                    "WORK": {
+                        "number": ""
+                    },
+                    "HOME": {
+                        "number": ""
+                    }
+                },
+                "emails": {
+                    "WORK": {
+                        "address": ""
+                    },
+                    "PERSONAL": {
+                        "address": "sas@fg.com"
+                    },
+                    "Correspondence": {
+                        "correspondenceResidence": false,
+                        "correspondenceWork": false,
+                        "correspondenceOther": true,
+                        "correspondenceOtherDetails": ""
+                    }
+                }
+            },
+            "convertedOn": null,
+            "riskProfile": {
+                "data": {
+                    "time": "",
+                    "riskVsGrowth": "",
+                    "fund": "",
+                    "market": ""
+                },
+                "strategy": ""
+            }
+        },
+        "state": {
+            "selected": true
+        },
+        "children": {
+            "mainplan": {
+                "id": "mainplan",
+                "attrs": {},
+                "state": {
+                    "selected": true
+                },
+                "children": {
+                    "futureProtect": {
+                        "id": "futureProtect",
+                        "attrs": {
+                            "person": {
+                                "name": {
+                                    "firstName": "Robert",
+                                    "middleName": "",
+                                    "lastName": "Vadra",
+                                    "suffix": "",
+                                    "title": ""
+                                },
+                                "gender": "MALE",
+                                "maritalStatus": "MARRIED",
+                                "birthDate": "11/07/2018",
+                                "age": 0,
+                                "Residency": {
+                                    "cityofbirth": "Morrisville",
+                                    "countryofbirth": "",
+                                    "nationality1": "USA",
+                                    "nationality2": null,
+                                    "nationality3": null,
+                                    "residency1": "1000 Whaley",
+                                    "residency2": "Morrisville",
+                                    "residency3": null
+                                },
+                                "Occupation": {
+                                    "employmentStatus": "Employee",
+                                    "position/title": "",
+                                    "exactDailyDuties": null
+                                },
+                                "income": {
+                                    "incomeCurrentYear": 65656,
+                                    "incomeLastYear": 65656,
+                                    "incomeTheYearBefore": 56662,
+                                    "incomeOtherSource": null,
+                                    "incomeOtherSourceAmount": 1000
+                                },
+                                "addresses": {
+                                    "WORK": {
+                                        "line1": "",
+                                        "line2": "",
+                                        "line3": "",
+                                        "city": "",
+                                        "country": "",
+                                        "postalCode": "",
+                                        "state": ""
+                                    },
+                                    "HOME": {
+                                        "line1": "",
+                                        "line2": "",
+                                        "line3": "",
+                                        "city": "",
+                                        "country": "",
+                                        "postalCode": "",
+                                        "state": ""
+                                    }
+                                },
+                                "phoneNumbers": {
+                                    "WORK": {
+                                        "number": ""
+                                    },
+                                    "HOME": {
+                                        "number": ""
+                                    }
+                                },
+                                "emails": {
+                                    "WORK": {
+                                        "address": ""
+                                    },
+                                    "PERSONAL": {
+                                        "address": "sas@fg.com"
+                                    },
+                                    "Correspondence": {
+                                        "correspondenceResidence": false,
+                                        "correspondenceWork": false,
+                                        "correspondenceOther": true,
+                                        "correspondenceOtherDetails": ""
+                                    }
+                                }
+                            },
+                            "JointLife": {
+                                "group_7aAXRLq_l": {
+                                    "jlFirstName": "jl1first",
+                                    "jlLastName": "jl1last",
+                                    "jlMiddleName": "",
+                                    "jlSuffix": "",
+                                    "jlTitle": ""
+                                },
+                                "jlGender": "Female",
+                                "jlMaritalstatus": "Married",
+                                "jlDateOfBirth": "10/29/1991",
+                                "jlAddresses": {
+                                    "jlWorkAddress": {
+                                        "jlWorkAddressLine1": "",
+                                        "jlWorkAddressLine2": "",
+                                        "jlWorkAddressLine3": "",
+                                        "city": "",
+                                        "country": "",
+                                        "postalCode": ""
+                                    },
+                                    "jlHomeAddress": {
+                                        "addressLine1": "",
+                                        "addressLine2": "",
+                                        "addressLine3": "",
+                                        "city": "",
+                                        "country": "",
+                                        "postalCode": ""
+                                    }
+                                },
+                                "jlPhoneNumbers": {
+                                    "workPhoneNumber": "",
+                                    "residencePhoneNumber": "",
+                                    "mobileNumber": ""
+                                },
+                                "jlEmails": {
+                                    "work": {
+                                        "workEmail": ""
+                                    },
+                                    "personal": {
+                                        "homeEmail": ""
+                                    }
+                                },
+                                "Identification": {
+                                    "idType": "",
+                                    "idNo": "",
+                                    "expiryDate": "",
+                                    "cityOfBirth": "",
+                                    "countryOfBirth": ""
+                                },
+                                "jlResidency": {
+                                    "jlResidency1": "",
+                                    "jlResidency2": "",
+                                    "jlResidency3": ""
+                                }
+                            },
+                            "data": {
+                                "currencyType": "USD",
+                                "paymentFrequency": "Quarterly",
+                                "planType": "12months",
+                                "radio_rhLUZpMxi": "Regular Premium",
+                                "premiumPaymentTerm": "All Pay"
+                            },
+                            "beneficiary": {
+                                "name": {
+                                    "firstName": "",
+                                    "lastName": ""
+                                },
+                                "gender": "",
+                                "birthDate": "",
+                                "relationship": "",
+                                "beneficiaryFor": ""
+                            },
+                            "financial": {
+                                "group_s1CKiDk6r": {
+                                    "InsuredFinancialInformation": {
+                                        "InsuredOccupation": {
+                                            "insuredEmploymentStatus": "",
+                                            "insuredPositionTitle": "",
+                                            "insuredCompanyName": "",
+                                            "insuredExactDailyDuties": "",
+                                            "insuredNatureofBusiness": ""
+                                        },
+                                        "InsuredIncome": {
+                                            "insuredCurrentYearIncome": 0,
+                                            "insuredLastYearIncome": 0,
+                                            "insuredTheYearBeforeIncome": 0,
+                                            "sourceofIncome1": "",
+                                            "income1AnnualAmount": 0,
+                                            "sourceOfIncome2": "",
+                                            "income2AnnualAmount": 0
+                                        }
+                                    },
+                                    "JointLifeFinancialInformation": {
+                                        "jointlifeoccupation": {
+                                            "select_IGhxvpKD0": "",
+                                            "jlPositionTitle": "",
+                                            "jlCompanyName": "",
+                                            "jlExactDailyDuties": "",
+                                            "jlNatureofBusiness": ""
+                                        },
+                                        "jointlifeincome": {
+                                            "jlCurrentYearIncome": 0,
+                                            "jlLastYearIncome": 0,
+                                            "jlTheYearBeforeIncome": 0,
+                                            "jlSourceOfIncome1": "",
+                                            "jlIncome1AnnualAmount": 0,
+                                            "jlSourceOfIncome2": "",
+                                            "jlIncome2AnnualAmount": 0
+                                        }
+                                    },
+                                    "OwnerFinancialInformation": {
+                                        "ownerOccupation": {
+                                            "ownerEmploymentStatus": "",
+                                            "ownerPositionTitle": "",
+                                            "ownerCompanyName": "",
+                                            "ownerExactDailyDuties": "",
+                                            "ownerNatureofBusiness": ""
+                                        },
+                                        "ownerincome": {
+                                            "ownerCurrentYearIncome": 0,
+                                            "ownerLastYearIncome": 0,
+                                            "ownerYearBeforeIncome": 0,
+                                            "ownerSourceofIncome1": "",
+                                            "ownerOtherIncomeAmount1": 0,
+                                            "ownerSourceOfIncome2": "",
+                                            "ownerOtherIncomeAmount2": 0
+                                        }
+                                    }
+                                }
+                            },
+                            "lifestyle": {
+                                "group_EBprB5J6s": {
+                                    "existingInsurance": "",
+                                    "existinInsuranceName": "",
+                                    "existingInsurancePolicyNo": "",
+                                    "existingInsuranceCompany": "",
+                                    "existingInsuranceCoverageAmount": 0,
+                                    "existingInsuranceAnnualPremium": 0,
+                                    "existingInsuranceLifePA": ""
+                                },
+                                "group_EPBaGxnJZ": {
+                                    "declinedInsurance": "",
+                                    "declinedInsuranceDetails": ""
+                                },
+                                "group_mFMOrx36C": {
+                                    "militaryHazardousActivity": "",
+                                    "militaryHazardousActivityDetails": ""
+                                }
+                            },
+                            "submission": {
+                                "USAIRSsection": {
+                                    "usCitizen": "",
+                                    "text_gMLqEsA_v": "",
+                                    "text_fEjkJ1yjX": ""
+                                },
+                                "FreeLookSection": {
+                                    "freeLookCheckbox": false
+                                },
+                                "group_xrbFxQThe": {}
+                            },
+                            "beneficiaryAllocations": {
+                                "allocationLimit": 100,
+                                "totalAllocation": 0,
+                                "data": []
+                            },
+                            "avpMods": {
+                                "specialDeposit": {
+                                    "depositStartYear": "",
+                                    "depositPerYear": 0,
+                                    "noOfYears": ""
+                                },
+                                "excessPremium": 0,
+                                "partialWithDrawal": {
+                                    "withdrawalStartYear": "",
+                                    "withdrawalPerYear": 0,
+                                    "noOfYears": ""
+                                }
+                            },
+                            "strategy": "aggressive",
+                            "acknowledgement": true,
+                            "justificationText": "",
+                            "funds": {
+                                "totalAllocationPercentage": "100",
+                                "conservative": {
+                                    "totalGroupPercentage": "0",
+                                    "cai": "0",
+                                    "egs": "0",
+                                    "usb": "0"
+                                },
+                                "balanced": {
+                                    "totalGroupPercentage": "0",
+                                    "afg": "0",
+                                    "emo": "0",
+                                    "pmt": "0"
+                                },
+                                "aggressive": {
+                                    "totalGroupPercentage": "100",
+                                    "ama": "50",
+                                    "fme": "0",
+                                    "pio": "50"
+                                }
+                            },
+                            "fundsTemp": {
+                                "totalAllocationPercentage": "100",
+                                "conservative": {
+                                    "totalGroupPercentage": "0",
+                                    "cai": "0",
+                                    "egs": "0",
+                                    "usb": "0"
+                                },
+                                "balanced": {
+                                    "totalGroupPercentage": "0",
+                                    "afg": "0",
+                                    "emo": "0",
+                                    "pmt": "0"
+                                },
+                                "aggressive": {
+                                    "totalGroupPercentage": "100",
+                                    "ama": "50",
+                                    "fme": "0",
+                                    "pio": "50"
+                                }
+                            },
+                            "insuredIsOwner": true
+                        },
+                        "state": {
+                            "selected": true
+                        },
+                        "children": {
+                            "JL1": {
+                                "id": "JL1",
+                                "attrs": {
+                                    "data": {
+                                        "insuredAmount": 150000,
+                                        "JointLifeAmount": 100000
+                                    }
+                                },
+                                "state": {
+                                    "selected": true
+                                },
+                                "children": {
+                                    "SCI": {
+                                        "id": "SCI",
+                                        "attrs": {
+                                            "data": {
+                                                "riderType": "3CI",
+                                                "insuredAmount": 200000,
+                                                "JointLifeAmount": 160000
+                                            }
+                                        },
+                                        "state": {
+                                            "selected": true
+                                        },
+                                        "children": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "step": "plan-design"
+    },
+    "createdAt": "2018-11-14T23:56:02.116Z",
+    "updatedAt": "2018-11-15T00:03:17.355Z",
+    "agent": {
+        "id": "AGENT02",
+        "name": {
+            "firstName": "John",
+            "lastName": "Oliver",
+            "middleName": "",
+            "suffix": "",
+            "title": "Mr."
+        }
+    },
+    "createdBy": {
+        "name": {
+            "firstName": "John",
+            "lastName": "Oliver",
+            "middleName": "",
+            "suffix": "",
+            "title": "Mr."
+        }
+    },
+    "updatedBy": {
+        "name": {
+            "firstName": "John",
+            "lastName": "Oliver",
+            "middleName": "",
+            "suffix": "",
+            "title": "Mr."
+        }
+    },
+    "prospect": {
+        "id": "d9e01552-f808-4404-a581-5e4296568b26",
+        "name": {
+            "firstName": "Robert",
+            "middleName": "",
+            "lastName": "Vadra",
+            "suffix": "",
+            "title": ""
+        }
+    },
+    "prospectId": "d9e01552-f808-4404-a581-5e4296568b26",
+    "quoteSummary": {
+        "currency": "USD",
+        "paymentFrequency": "ANL",
+        "totalPremiumAmount": 62402.5,
+        "basicPlanPremium": {
+            "totalPremiumAmount": 45720,
+            "totalCoverageAmount": 10000000,
+            "coverages": {
+            "FUPBASECOV": {
+                "coverageAmounts": {
+                "insured": 10000000,
+                "jointLifeAmount": 1000000
+                },
+                "premiumAmounts": {
+                "insured": 45720
+                }
+            }
+            }
+        },
+        "supplementPremium": {
+            "totalPremiumAmount": 16582.5,
+            "totalCoverageAmount": 7750000,
+            "coverages": {
+            "FUPADBCOV": {
+                "coverageAmounts": {
+                "insured": 5000000
+                },
+                "premiumAmounts": {
+                "insured": 14700
+                }
+            },
+            "FUPACILCOV": {
+                "coverageAmounts": {
+                "insured": 250000
+                },
+                "premiumAmounts": {
+                "insured": 1212.5
+                }
+            },
+            "FUPPTDCOV": {
+                "coverageAmounts": {
+                "insured": 500000
+                },
+                "premiumAmounts": {
+                "insured": 670
+                }
+            },
+            "FUPPWRCOV": {
+                "coverageAmounts": {
+                "insured": 1000000,
+                "jointLifeAmount": 1000000
+                },
+                "premiumAmounts": {
+                "insured": null,
+                "jointLifeAmount": null
+                }
+            }
+            }
+        },
+        "premiumSummary": {
+            "annualy": 62302.5,
+            "semiannualy": 31151.25,
+            "quarterly": 15575.63,
+            "monthly": 5191.86
+        },
+        "accountValues": [
+            {
+            "year": 1,
+            "age": 31,
+            "annualPremium": 62403,
+            "accountvalue": 46,
+            "receiveValue": 0
+            },
+            {
+            "year": 2,
+            "age": 32,
+            "annualPremium": 124805,
+            "accountvalue": 120,
+            "receiveValue": 0
+            },
+            {
+            "year": 3,
+            "age": 33,
+            "annualPremium": 187208,
+            "accountvalue": 46278,
+            "receiveValue": 46028
+            },
+            {
+            "year": 4,
+            "age": 34,
+            "annualPremium": 249610,
+            "accountvalue": 91840,
+            "receiveValue": 91640
+            },
+            {
+            "year": 5,
+            "age": 35,
+            "annualPremium": 312013,
+            "accountvalue": 136544,
+            "receiveValue": 136394
+            },
+            {
+            "year": 6,
+            "age": 36,
+            "annualPremium": 374415,
+            "accountvalue": 180343,
+            "receiveValue": 180243
+            },
+            {
+            "year": 7,
+            "age": 37,
+            "annualPremium": 436818,
+            "accountvalue": 223235,
+            "receiveValue": 223210
+            },
+            {
+            "year": 8,
+            "age": 38,
+            "annualPremium": 499220,
+            "accountvalue": 265045,
+            "receiveValue": 265020
+            },
+            {
+            "year": 9,
+            "age": 39,
+            "annualPremium": 561623,
+            "accountvalue": 305773,
+            "receiveValue": 305748
+            },
+            {
+            "year": 10,
+            "age": 40,
+            "annualPremium": 624025,
+            "accountvalue": 345472,
+            "receiveValue": 345447
+            },
+            {
+            "year": 11,
+            "age": 41,
+            "annualPremium": 686428,
+            "accountvalue": 387904,
+            "receiveValue": 387879
+            },
+            {
+            "year": 12,
+            "age": 42,
+            "annualPremium": 748830,
+            "accountvalue": 429196,
+            "receiveValue": 429171
+            },
+            {
+            "year": 13,
+            "age": 43,
+            "annualPremium": 811233,
+            "accountvalue": 469362,
+            "receiveValue": 469337
+            },
+            {
+            "year": 14,
+            "age": 44,
+            "annualPremium": 873635,
+            "accountvalue": 508110,
+            "receiveValue": 508085
+            },
+            {
+            "year": 15,
+            "age": 45,
+            "annualPremium": 936038,
+            "accountvalue": 545377,
+            "receiveValue": 545352
+            },
+            {
+            "year": 16,
+            "age": 46,
+            "annualPremium": 998440,
+            "accountvalue": 581111,
+            "receiveValue": 581086
+            },
+            {
+            "year": 17,
+            "age": 47,
+            "annualPremium": 1060843,
+            "accountvalue": 615177,
+            "receiveValue": 615152
+            },
+            {
+            "year": 18,
+            "age": 48,
+            "annualPremium": 1123245,
+            "accountvalue": 647529,
+            "receiveValue": 647504
+            },
+            {
+            "year": 19,
+            "age": 49,
+            "annualPremium": 1185648,
+            "accountvalue": 678148,
+            "receiveValue": 678123
+            },
+            {
+            "year": 20,
+            "age": 50,
+            "annualPremium": 1248050,
+            "accountvalue": 706809,
+            "receiveValue": 706784
+            },
+            {
+            "year": 21,
+            "age": 51,
+            "annualPremium": 1310453,
+            "accountvalue": 733593,
+            "receiveValue": 733568
+            },
+            {
+            "year": 22,
+            "age": 52,
+            "annualPremium": 1372855,
+            "accountvalue": 758354,
+            "receiveValue": 758329
+            },
+            {
+            "year": 23,
+            "age": 53,
+            "annualPremium": 1435258,
+            "accountvalue": 780924,
+            "receiveValue": 780899
+            },
+            {
+            "year": 24,
+            "age": 54,
+            "annualPremium": 1497660,
+            "accountvalue": 801351,
+            "receiveValue": 801326
+            },
+            {
+            "year": 25,
+            "age": 55,
+            "annualPremium": 1560063,
+            "accountvalue": 819306,
+            "receiveValue": 819281
+            },
+            {
+            "year": 26,
+            "age": 56,
+            "annualPremium": 1622465,
+            "accountvalue": 834695,
+            "receiveValue": 834670
+            },
+            {
+            "year": 27,
+            "age": 57,
+            "annualPremium": 1684868,
+            "accountvalue": 847228,
+            "receiveValue": 847203
+            },
+            {
+            "year": 28,
+            "age": 58,
+            "annualPremium": 1747270,
+            "accountvalue": 856710,
+            "receiveValue": 856685
+            },
+            {
+            "year": 29,
+            "age": 59,
+            "annualPremium": 1809673,
+            "accountvalue": 862704,
+            "receiveValue": 862679
+            },
+            {
+            "year": 30,
+            "age": 60,
+            "annualPremium": 1872075,
+            "accountvalue": 865036,
+            "receiveValue": 865011
+            },
+            {
+            "year": 31,
+            "age": 61,
+            "annualPremium": 1934478,
+            "accountvalue": 863020,
+            "receiveValue": 862995
+            },
+            {
+            "year": 32,
+            "age": 62,
+            "annualPremium": 1996880,
+            "accountvalue": 856531,
+            "receiveValue": 856506
+            },
+            {
+            "year": 33,
+            "age": 63,
+            "annualPremium": 2059283,
+            "accountvalue": 844925,
+            "receiveValue": 844900
+            },
+            {
+            "year": 34,
+            "age": 64,
+            "annualPremium": 2121685,
+            "accountvalue": 827785,
+            "receiveValue": 827760
+            },
+            {
+            "year": 35,
+            "age": 65,
+            "annualPremium": 2184088,
+            "accountvalue": 804329,
+            "receiveValue": 804304
+            },
+            {
+            "year": 36,
+            "age": 66,
+            "annualPremium": 2246490,
+            "accountvalue": 773927,
+            "receiveValue": 773902
+            },
+            {
+            "year": 37,
+            "age": 67,
+            "annualPremium": 2308893,
+            "accountvalue": 737011,
+            "receiveValue": 736986
+            },
+            {
+            "year": 38,
+            "age": 68,
+            "annualPremium": 2371295,
+            "accountvalue": 691130,
+            "receiveValue": 691105
+            },
+            {
+            "year": 39,
+            "age": 69,
+            "annualPremium": 2433698,
+            "accountvalue": 635161,
+            "receiveValue": 635136
+            },
+            {
+            "year": 40,
+            "age": 70,
+            "annualPremium": 2496100,
+            "accountvalue": 567612,
+            "receiveValue": 567587
+            },
+            {
+            "year": 41,
+            "age": 71,
+            "annualPremium": 2558503,
+            "accountvalue": 487146,
+            "receiveValue": 487121
+            },
+            {
+            "year": 42,
+            "age": 72,
+            "annualPremium": 2620905,
+            "accountvalue": 392278,
+            "receiveValue": 392253
+            },
+            {
+            "year": 43,
+            "age": 73,
+            "annualPremium": 2683308,
+            "accountvalue": 280794,
+            "receiveValue": 280769
+            },
+            {
+            "year": 44,
+            "age": 74,
+            "annualPremium": 2745710,
+            "accountvalue": 150587,
+            "receiveValue": 150562
+            },
+            {
+            "year": 45,
+            "age": 75,
+            "annualPremium": 2808113,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 46,
+            "age": 76,
+            "annualPremium": 2870515,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 47,
+            "age": 77,
+            "annualPremium": 2932918,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 48,
+            "age": 78,
+            "annualPremium": 2995320,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 49,
+            "age": 79,
+            "annualPremium": 3057723,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 50,
+            "age": 80,
+            "annualPremium": 3120125,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 51,
+            "age": 81,
+            "annualPremium": 3182528,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 52,
+            "age": 82,
+            "annualPremium": 3244930,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 53,
+            "age": 83,
+            "annualPremium": 3307333,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 54,
+            "age": 84,
+            "annualPremium": 3369735,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 55,
+            "age": 85,
+            "annualPremium": 3432138,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 56,
+            "age": 86,
+            "annualPremium": 3494540,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 57,
+            "age": 87,
+            "annualPremium": 3556943,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 58,
+            "age": 88,
+            "annualPremium": 3619345,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 59,
+            "age": 89,
+            "annualPremium": 3681748,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 60,
+            "age": 90,
+            "annualPremium": 3744150,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 61,
+            "age": 91,
+            "annualPremium": 3806553,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 62,
+            "age": 92,
+            "annualPremium": 3868955,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 63,
+            "age": 93,
+            "annualPremium": 3931358,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 64,
+            "age": 94,
+            "annualPremium": 3993760,
+            "accountvalue": null,
+            "receiveValue": null
+            },
+            {
+            "year": 65,
+            "age": 95,
+            "annualPremium": 4056163,
+            "accountvalue": null,
+            "receiveValue": null
+            }
+        ],
+        "pensionBenefits": [
+            {
+            "age": 60,
+            "p5Y": 173002,
+            "p10YPL": 37203,
+            "p20YPL": 33783,
+            "pWL": 38039
+            },
+            {
+            "age": 65,
+            "p5Y": 160861,
+            "p10YPL": 41104,
+            "p20YPL": 34810,
+            "pWL": 42883
+            },
+            {
+            "age": 70,
+            "p5Y": 113517,
+            "p10YPL": 34648,
+            "p20YPL": 26479,
+            "pWL": 37621
+            }
+        ],
+        "premuimScenarios": [
+            {
+            "year": 20,
+            "age": null,
+            "premium": 62303
+            },
+            {
+            "year": null,
+            "age": 80,
+            "premium": 86893
+            },
+            {
+            "year": null,
+            "age": 95,
+            "premium": 289977
+            }
+        ],
+        "fluctuationOfInvestments": [
+            {
+            "year": 1,
+            "age": 31,
+            "p0": 0,
+            "p2": 0,
+            "p5": 0,
+            "p7": 0
+            },
+            {
+            "year": 2,
+            "age": 32,
+            "p0": 0,
+            "p2": 0,
+            "p5": 0,
+            "p7": 0
+            },
+            {
+            "year": 3,
+            "age": 33,
+            "p0": 46028,
+            "p2": 47235,
+            "p5": 49068,
+            "p7": 50306
+            },
+            {
+            "year": 4,
+            "age": 34,
+            "p0": 91640,
+            "p2": 94797,
+            "p5": 99647,
+            "p7": 102958
+            },
+            {
+            "year": 5,
+            "age": 35,
+            "p0": 136394,
+            "p2": 142407,
+            "p5": 151780,
+            "p7": 158271
+            },
+            {
+            "year": 6,
+            "age": 36,
+            "p0": 180243,
+            "p2": 190006,
+            "p5": 205463,
+            "p7": 216331
+            },
+            {
+            "year": 7,
+            "age": 37,
+            "p0": 223210,
+            "p2": 237604,
+            "p5": 260759,
+            "p7": 277299
+            },
+            {
+            "year": 8,
+            "age": 38,
+            "p0": 265020,
+            "p2": 284911,
+            "p5": 317430,
+            "p7": 341036
+            },
+            {
+            "year": 9,
+            "age": 39,
+            "p0": 305748,
+            "p2": 331985,
+            "p5": 375589,
+            "p7": 407759
+            },
+            {
+            "year": 10,
+            "age": 40,
+            "p0": 345447,
+            "p2": 378863,
+            "p5": 435326,
+            "p7": 477672
+            },
+            {
+            "year": 11,
+            "age": 41,
+            "p0": 387879,
+            "p2": 429520,
+            "p5": 501060,
+            "p7": 555606
+            },
+            {
+            "year": 12,
+            "age": 42,
+            "p0": 429171,
+            "p2": 479959,
+            "p5": 568681,
+            "p7": 637458
+            },
+            {
+            "year": 13,
+            "age": 43,
+            "p0": 469337,
+            "p2": 530182,
+            "p5": 638273,
+            "p7": 723473
+            },
+            {
+            "year": 14,
+            "age": 44,
+            "p0": 508085,
+            "p2": 579885,
+            "p5": 709612,
+            "p7": 813600
+            },
+            {
+            "year": 15,
+            "age": 45,
+            "p0": 545352,
+            "p2": 628987,
+            "p5": 782699,
+            "p7": 908020
+            },
+            {
+            "year": 16,
+            "age": 46,
+            "p0": 581086,
+            "p2": 677419,
+            "p5": 857546,
+            "p7": 1006938
+            },
+            {
+            "year": 17,
+            "age": 47,
+            "p0": 615152,
+            "p2": 725026,
+            "p5": 934082,
+            "p7": 1110489
+            },
+            {
+            "year": 18,
+            "age": 48,
+            "p0": 647504,
+            "p2": 771744,
+            "p5": 1012330,
+            "p7": 1218915
+            },
+            {
+            "year": 19,
+            "age": 49,
+            "p0": 678123,
+            "p2": 817530,
+            "p5": 1092331,
+            "p7": 1332491
+            },
+            {
+            "year": 20,
+            "age": 50,
+            "p0": 706784,
+            "p2": 862139,
+            "p5": 1173937,
+            "p7": 1451321
+            },
+            {
+            "year": 21,
+            "age": 51,
+            "p0": 733568,
+            "p2": 905627,
+            "p5": 1257293,
+            "p7": 1575817
+            },
+            {
+            "year": 22,
+            "age": 52,
+            "p0": 758329,
+            "p2": 947824,
+            "p5": 1342329,
+            "p7": 1706196
+            },
+            {
+            "year": 23,
+            "age": 53,
+            "p0": 780899,
+            "p2": 988539,
+            "p5": 1428956,
+            "p7": 1842681
+            },
+            {
+            "year": 24,
+            "age": 54,
+            "p0": 801326,
+            "p2": 1027791,
+            "p5": 1517296,
+            "p7": 1985724
+            },
+            {
+            "year": 25,
+            "age": 55,
+            "p0": 819281,
+            "p2": 1065225,
+            "p5": 1607109,
+            "p7": 2135447
+            },
+            {
+            "year": 26,
+            "age": 56,
+            "p0": 834670,
+            "p2": 1100718,
+            "p5": 1698383,
+            "p7": 2292218
+            },
+            {
+            "year": 27,
+            "age": 57,
+            "p0": 847203,
+            "p2": 1133950,
+            "p5": 1790924,
+            "p7": 2456271
+            },
+            {
+            "year": 28,
+            "age": 58,
+            "p0": 856685,
+            "p2": 1164691,
+            "p5": 1884624,
+            "p7": 2627943
+            },
+            {
+            "year": 29,
+            "age": 59,
+            "p0": 862679,
+            "p2": 1192471,
+            "p5": 1979160,
+            "p7": 2807416
+            },
+            {
+            "year": 30,
+            "age": 60,
+            "p0": 865011,
+            "p2": 1217073,
+            "p5": 2074450,
+            "p7": 2995139
+            },
+            {
+            "year": 31,
+            "age": 61,
+            "p0": 862995,
+            "p2": 1237779,
+            "p5": 2169946,
+            "p7": 3191176
+            },
+            {
+            "year": 32,
+            "age": 62,
+            "p0": 856506,
+            "p2": 1254406,
+            "p5": 2265613,
+            "p7": 3396120
+            },
+            {
+            "year": 33,
+            "age": 63,
+            "p0": 844900,
+            "p2": 1266264,
+            "p5": 2360947,
+            "p7": 3610195
+            },
+            {
+            "year": 34,
+            "age": 64,
+            "p0": 827760,
+            "p2": 1272877,
+            "p5": 2455656,
+            "p7": 3833884
+            },
+            {
+            "year": 35,
+            "age": 65,
+            "p0": 804304,
+            "p2": 1273399,
+            "p5": 2549097,
+            "p7": 4067420
+            },
+            {
+            "year": 36,
+            "age": 66,
+            "p0": 773902,
+            "p2": 1267132,
+            "p5": 2640810,
+            "p7": 4311328
+            },
+            {
+            "year": 37,
+            "age": 67,
+            "p0": 736986,
+            "p2": 1254446,
+            "p5": 2731437,
+            "p7": 4567361
+            },
+            {
+            "year": 38,
+            "age": 68,
+            "p0": 691105,
+            "p2": 1232824,
+            "p5": 2818800,
+            "p7": 4834641
+            },
+            {
+            "year": 39,
+            "age": 69,
+            "p0": 635136,
+            "p2": 1201048,
+            "p5": 2902017,
+            "p7": 5113723
+            },
+            {
+            "year": 40,
+            "age": 70,
+            "p0": 567587,
+            "p2": 1157526,
+            "p5": 2979913,
+            "p7": 5405119
+            },
+            {
+            "year": 41,
+            "age": 71,
+            "p0": 487121,
+            "p2": 1100787,
+            "p5": 3051434,
+            "p7": 5709644
+            },
+            {
+            "year": 42,
+            "age": 72,
+            "p0": 392253,
+            "p2": 1029189,
+            "p5": 3115403,
+            "p7": 6028255
+            },
+            {
+            "year": 43,
+            "age": 73,
+            "p0": 280769,
+            "p2": 940365,
+            "p5": 3170077,
+            "p7": 6361809
+            },
+            {
+            "year": 44,
+            "age": 74,
+            "p0": 150562,
+            "p2": 832010,
+            "p5": 3213836,
+            "p7": 6711679
+            },
+            {
+            "year": 45,
+            "age": 75,
+            "p2": 700827,
+            "p5": 3244293,
+            "p7": 7079169
+            },
+            {
+            "year": 46,
+            "age": 76,
+            "p2": 542979,
+            "p5": 3258694,
+            "p7": 7465953
+            },
+            {
+            "year": 47,
+            "age": 77,
+            "p2": 373985,
+            "p5": 3272987,
+            "p7": 7891644
+            },
+            {
+            "year": 48,
+            "age": 78,
+            "p2": 176334,
+            "p5": 3271086,
+            "p7": 8345867
+            },
+            {
+            "year": 49,
+            "age": 79,
+            "p5": 3250280,
+            "p7": 8832517
+            },
+            {
+            "year": 50,
+            "age": 80,
+            "p5": 3207546,
+            "p7": 9356356
+            },
+            {
+            "year": 51,
+            "age": 81,
+            "p5": 3139401,
+            "p7": 9923181
+            },
+            {
+            "year": 52,
+            "age": 82,
+            "p5": 3042009,
+            "p7": 10540060
+            },
+            {
+            "year": 53,
+            "age": 83,
+            "p5": 2911270,
+            "p7": 11217501
+            },
+            {
+            "year": 54,
+            "age": 84,
+            "p5": 2741608,
+            "p7": 11943829
+            },
+            {
+            "year": 55,
+            "age": 85,
+            "p5": 2525823,
+            "p7": 12713264
+            },
+            {
+            "year": 56,
+            "age": 86,
+            "p5": 2255257,
+            "p7": 13528364
+            },
+            {
+            "year": 57,
+            "age": 87,
+            "p5": 1919779,
+            "p7": 14391840
+            },
+            {
+            "year": 58,
+            "age": 88,
+            "p5": 1507030,
+            "p7": 15306561
+            },
+            {
+            "year": 59,
+            "age": 89,
+            "p5": 1002233,
+            "p7": 16275571
+            },
+            {
+            "year": 60,
+            "age": 90,
+            "p5": 388093,
+            "p7": 17302090
+            },
+            {
+            "year": 61,
+            "age": 91
+            },
+            {
+            "year": 62,
+            "age": 92
+            },
+            {
+            "year": 63,
+            "age": 93
+            },
+            {
+            "year": 64,
+            "age": 94
+            },
+            {
+            "year": 65,
+            "age": 95
+            }
+        ]
+    }
+}
